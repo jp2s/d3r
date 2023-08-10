@@ -1,4 +1,4 @@
-# d3r - Dragon Dice & Dungeons in React
+# d3r - [Dragon Dice & Dungeons](https://yugioh.fandom.com/wiki/Dungeon_Dice_Monsters) in React
 
 ## Catchphrase here
 
