@@ -1,0 +1,22 @@
+html {
+  margin: 0;
+  font-family: Helvetica Neue, sans-serif;
+}
+
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+
+.fullWidth {
+  width: 100%;
+}
+.fullHeight {
+  height: 100%;
+}
+.full {
+  width: 100%;
+  height: 100%;
+}
