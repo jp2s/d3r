@@ -1,0 +1,43 @@
+.container {
+  display: flex;
+}
+
+.grid {
+  flex: 1 0 21%;
+}
+.wrap {
+  flex-wrap: wrap;
+}
+
+.row {
+  flex-direction: row;
+}
+.column {
+  flex-direction: column;
+}
+
+.l0Container {
+  gap: 40px;
+}
+.l1Container {
+  gap: 32px;
+}
+.l2Container {
+  gap: 16px;
+}
+.l3Container {
+  gap: 8px;
+}
+
+.centerCenter {
+  justify-content: center;
+  align-items: center;
+}
+.betweenCenter {
+  justify-content: space-between;
+  align-items: center;
+}
+.startCenter {
+  justify-content: start;
+  align-items: center;
+}
